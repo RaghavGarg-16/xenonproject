@@ -47,21 +47,32 @@ Additional Libraries:
   
 ## File Structure
 
-- client/: Frontend codebase.
-- server/: Backend codebase.
-- client/public/: Static assets.
-- client/src/: React components and application logic.
-- server/config/: Configuration files.
-- server/controllers/: Controllers for handling routes.
-- server/models/: Mongoose models for MongoDB.
-- server/routes/: Express.js route definitions.
-- .gitignore: Ignored files and directories for version control.
+- frontend/: Frontend codebase.
+- backend/: Backend codebase.
+- frontend/public/: Static assets.
+- frontend/src/: React components and application logic.
+- backend/config/: Configuration files.
+- backend/controllers/: Controllers for handling routes.
+- backend/models/: Mongoose models for MongoDB.
+- backend/routes/: Express.js route definitions.
 - package.json: Project configuration and dependencies.
 - README.md: Project documentation.
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+1. **Clone the repository:**
+git clone https://github.com/yourusername/learnify.git
+
+2. Navigate to the project directory:
+cd learnify
+
+3. Install dependencies for both backend and frontend:
+cd server && npm install
+cd ../client && npm install
+
+4. Set up MongoDB:
+Install and start MongoDB locally or set up a remote MongoDB instance.
+
 
 ## Test user
 
