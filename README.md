@@ -86,7 +86,6 @@ password : test
 
 ### Contact us page
 ![alt text](frontend/public/images/S6.png)
-    
   
 ## License
 This project is under [MIT License](MIT License)
