@@ -1,4 +1,4 @@
-# XenonLearn (Delployment Link)
+# XenonLearn (https://transcendent-sfogliatella-79d034.netlify.app/)
 
 ## Description
 
@@ -10,7 +10,7 @@ XenonLearn is a user-friendly web application designed to help both instructors 
 - [Technology Used](technology-used)
 - [File Structure](#file-structure)
 - [Installation](#installation)
-- [Deployment](#deployment)
+- [Testuser](#testuser)
 - [Usage](#usage)
 - [License](#license)
 
@@ -63,7 +63,10 @@ Additional Libraries:
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
-## Deployment
+## test user
+
+email: testuser@gmail.com  
+password : test
 
 ## Usage
 
