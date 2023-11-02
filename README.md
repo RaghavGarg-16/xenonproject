@@ -1,8 +1,8 @@
-# XenonLearn (https://transcendent-sfogliatella-79d034.netlify.app/)
+# XenonProject (https://transcendent-sfogliatella-79d034.netlify.app/)
 
 ## Description
 
-XenonLearn is a user-friendly web application designed to help both instructors and learners connect in a seamless educational environment. With a clean and intuitive interface, Learnify offers a straightforward platform for instructors to showcase their courses and for learners to discover and enroll in their preferred subjects.
+XenonProject is a user-friendly web application designed to help both instructors and learners connect in a seamless educational environment. With a clean and intuitive interface, Learnify offers a straightforward platform for instructors to showcase their courses and for learners to discover and enroll in their preferred subjects.
 
 ## Table of Contents
 
@@ -16,32 +16,32 @@ XenonLearn is a user-friendly web application designed to help both instructors 
 
 ## Features
 
-User Authentication and Registration:
+**User Authentication and Registration:**
 - User accounts with unique usernames and passwords.
 - Options for users to register using email, social media accounts, or other authentication methods.
 
-Course Catalog:
+**Course Catalog:**
 - A searchable and categorized list of available courses presented with clear titles, descriptions, and instructor details.
 - Filter options for sorting by subject, level, duration, etc.
 - Engage with comprehensive course overviews, including curriculum, prerequisites, and user reviews
 
-Content Recommendations:
+**Content Recommendations:**
 - Personalized course recommendations based on user preferences, browsing history, and behavior.
 
-Admin Dashboard:
+**Admin Dashboard:**
 - Backend interface for administrators to manage users, courses, content, and settings.
 
 ## Technologies Used
-Frontend:
+**Frontend:**
 - React.js
 - CSS for styling
   
-Backend:
+**Backend:**
 - Node.js
 - Express.js
 - MongoDB
 
-Additional Libraries:
+**Additional Libraries:**
 - Axios for HTTP requests
 - React Router for client-side routing
   
@@ -60,24 +60,33 @@ Additional Libraries:
 
 ## Installation
 
-1. **Clone the repository:**
+**1. Clone the repository:**
 git clone https://github.com/yourusername/learnify.git
 
-2. Navigate to the project directory:
+**2. Navigate to the project directory:**
 cd learnify
 
-3. Install dependencies for both backend and frontend:
+**3. Install dependencies for both backend and frontend:**
 cd server && npm install
 cd ../client && npm install
 
-4. Set up MongoDB:
+**4. Set up MongoDB:**
 Install and start MongoDB locally or set up a remote MongoDB instance.
 
+**5. Create a .env file in the server directory and add the following variables:**
+MONGO_URI=your_mongo_uri
+JWT_SECRET=your_jwt_secret
+
+**6. Start the server and client:**
+cd server && npm start
+cd ../client && npm start
+
+**The app will be running on http://localhost:3000.**
 
 ## Test user
 
-email: testuser@gmail.com  
-password : test
+**email** : testuser@gmail.com  
+**password** : test
 
 ## Usage
 ### Home Page
@@ -99,5 +108,5 @@ password : test
 ![alt text](frontend/public/images/S6.png)
   
 ## License
-This project is under [MIT License](MIT-License)
+This project is licensed under the [MIT License](MIT-License).
 
