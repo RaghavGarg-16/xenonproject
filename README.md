@@ -92,6 +92,9 @@ cd ../client && npm start
 ### Home Page
 ![alt text](frontend/public/images/S1.png)
 
+### About Page
+![alt text](frontend/public/images/S7.png)
+
 ### Sign Up page
 ![alt text](frontend/public/images/S2.png)
 
