@@ -63,18 +63,28 @@ Additional Libraries:
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
-## test user
+## Test user
 
 email: testuser@gmail.com  
 password : test
 
 ## Usage
-
+### Home Page
 ![alt text](frontend/public/images/S1.png)
+
+### Sign Up page
 ![alt text](frontend/public/images/S2.png)
+
+### Sign in page
 ![alt text](frontend/public/images/S3.png)
+
+### Logged in Home Page
 ![alt text](frontend/public/images/S4.png)
+
+### Course Cards
 ![alt text](frontend/public/images/S5.png)
+
+### Contact us page
 ![alt text](frontend/public/images/S6.png)
     
   
