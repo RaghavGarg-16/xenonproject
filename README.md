@@ -70,9 +70,13 @@ password : test
 
 ## Usage
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![alt text](frontend/public/images/S1.png)
+![alt text](frontend/public/images/S2.png)
+![alt text](frontend/public/images/S3.png)
+![alt text](frontend/public/images/S4.png)
+![alt text](frontend/public/images/S5.png)
+![alt text](frontend/public/images/S6.png)
+    
   
 ## License
 This project is under [MIT License](MIT License)
