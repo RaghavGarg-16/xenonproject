@@ -88,5 +88,5 @@ password : test
 ![alt text](frontend/public/images/S6.png)
   
 ## License
-This project is under [MIT License](MIT License)
+This project is under [MIT License](MIT-License)
 
