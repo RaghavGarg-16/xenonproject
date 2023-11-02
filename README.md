@@ -61,14 +61,14 @@ XenonProject is a user-friendly web application designed to help both instructor
 ## Installation
 
 **1. Clone the repository:**
-git clone https://github.com/yourusername/learnify.git
+git clone https://github.com/RaghavGarg-16/xenonproject.git
 
 **2. Navigate to the project directory:**
-cd learnify
+cd xenonproject
 
 **3. Install dependencies for both backend and frontend:**
-cd server && npm install
-cd ../client && npm install
+cd backend && npm install
+cd ../frontend && npm install
 
 **4. Set up MongoDB:**
 Install and start MongoDB locally or set up a remote MongoDB instance.
